@@ -1,10 +1,11 @@
 # Quiz TCP Client–Server
 
-A university project implementing a TCP-based multi-player quiz game, featuring:  
+A C-based, multi-user quiz game built on TCP sockets. The server accepts and manages concurrent client connections, drawing timed questions from a customizable quiz file. Players connect with unique nicknames, race against a strict timeout for each question ⏱️, and watch their scores climb—or fall—in a live leaderboard 🏆. 
 
-- 🎮 Multiplayer quiz rounds  
-- ⏱️ Timed questions with automatic cut-off  
-- 🏆 Real-time score tracking and leaderboards  
+- 📬: A simple, clear message format for questions, answers, acknowledgments, and score updates
+- 🧵: Managing multiple clients simultaneously using pthreads
+- 🛠️: Reliable, ordered data exchange over TCP 
+- 🏆 Real-time score tracking and leaderboards
 
 ---
 
