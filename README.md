@@ -56,8 +56,11 @@ A C-based, multi-user quiz game built on TCP sockets. The server accepts and man
 ## 🏫 Academic Context
 
 **University of Pisa**  
+
 **Course**: Computer Networks
+
 **Year**: 2025 
+
 **Authors**: Giovanni Dipace
 
 ---
