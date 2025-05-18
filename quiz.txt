@@ -1,0 +1,69 @@
+THEME 1 - General knowledge quiz questions
+Which country has the highest life expectancy? Hong Kong
+What is the most common surname in the United States? Smith
+Who was the Ancient Greek God of the Sun? Apollo
+How many minutes are in a full week? 10,080
+Aureolin is a shade of what color? Yellow
+
+THEME 2 - Geography
+Where would you be if you were standing on the Spanish Steps? Rome
+What city is known as "The Eternal City"? Rome
+In which country would you find Mount Kilimanjaro? Tanzania
+True or false: Halloween originated as an ancient Irish festival? True
+What is the largest Spanish-speaking city in the world? Mexico City
+
+THEME 3 - Science
+How many elements are in the periodic table? 118
+Which planet in the Milky Way is the hottest? Venus
+Who discovered that the Earth revolves around the sun? Nicolaus Copernicus
+Which planet has the most moons? Saturn
+Which planet is closest to the sun? Mercury
+
+THEME 4 - History
+What was the name of the crime boss who was head of the feared Chicago Outfit? Al Capone
+What year was the United Nations established? 1945
+What Renaissance artist is buried in Rome's Pantheon? Raphael
+Who was the last Tsar of Russia? Nicholas II
+Roald Amundsen was the first man to reach the South Pole, but where was he from? Norway
+
+THEME 5 - Food and drink
+Which country drinks the most coffee per capita? Finland
+How many measures of Gordon’s Gin are in a Vesper (James Bond) martini? 3
+Cacio e pepe is a staple of what Italian city’s cuisine? Rome
+Where did sushi originate? Japan
+What is a Beaujolais? Red wine
+
+THEME 6 - Pop culture
+Who has won the most total Academy Awards? Walt Disney
+What artist has the most streams on Spotify? Drake
+What company was originally called "Cadabra"? Amazon
+Queen guitarist Brian May is also an expert in what scientific field? Astrophysics
+How many ghosts chase Pac-Man at the start of each game? 4
+
+THEME 7 - Sports
+What does FIFA stand for in English? International Federation of Association Football
+Which country has won the most World Cups? Brazil
+Who was the world’s highest-paid athlete in 2023? Cristiano Ronaldo
+In what city is the NFL Hall of Fame located? Canton, Ohio
+Simone Biles is famous for her skill in what sport? Gymnastics
+
+THEME 8 - Animals
+What is the world's fastest bird? Peregrine falcon
+What is a group of crows called? A murder
+How many hearts does an octopus have? Three
+What is a group of pandas known as? An embarrassment
+What is the loudest animal on Earth? Sperm whale
+
+THEME 9 - Disney
+Where is Disney's European theme park located? Paris, France
+Which Disney movie has had the most sequels? Toy Story
+"I'll Make a Man Out of You" is a song from which movie? Mulan
+What character have both Glen Close and Emma Stone played? Cruella de Vil
+Who was the first Disney princess? Snow White
+
+THEME 10 - Test
+Domanda 1? Risposta 1
+Domanda 2? Risposta 2
+Domanda 3? Risposta 3
+Domanda 4? Risposta 4
+Domanda 5? Risposta 5

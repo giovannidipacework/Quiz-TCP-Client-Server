@@ -1,0 +1,6 @@
+pippo 1 5
+marco 3 3
+marco 1 4
+giovanni 10 5
+andrea 6 4
+andrea 7 2
